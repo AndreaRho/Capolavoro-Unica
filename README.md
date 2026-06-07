@@ -26,6 +26,3 @@ Per realizzare questo software ho applicato diversi concetti studiati quest'anno
 * **Funzioni:** Per dividere il codice in blocchi logici e riutilizzabili;
 * **File I/O:** Uso delle librerie `fstream` per leggere e scrivere la cronologia;
 * **Libreria Time:** Per generare ritardi (`wait`) e casualità (`srand`).
-
----
-*Progetto realizzato da Altavilla Mattia come Capolavoro per l'A.S.2025/26*
